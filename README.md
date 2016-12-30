@@ -1,7 +1,7 @@
 <p align="center">
   <h3 align="center">Sudokus</h3>
   <p align="center">A JavaScript utility to solve sudokus.<p>
-  <img src="https://raw.githubusercontent.com/Moeriki/node-sudokus/master/demo.gif">
+  <p align="center"><img align="center" src="https://raw.githubusercontent.com/Moeriki/node-sudokus/master/demo.gif" height="480x"></p>
 </p>
 
 ## CLI
