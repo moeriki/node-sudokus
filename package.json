@@ -1,7 +1,7 @@
 {
-  "name": "sudoku-cli",
   "version": "0.0.0",
   "description": "",
+  "name": "sudokus",
   "keywords": [
     "sudoku",
     "puzzle",
@@ -15,7 +15,7 @@
   },
   "main": "lib/index.js",
   "bin": {
-    "sudoku": "cli.js"
+    "sudokus": "cli.js"
   },
   "scripts": {
     "lint": "eslint *.js lib/",
