@@ -1,7 +1,7 @@
 {
-  "version": "0.0.0",
-  "description": "",
   "name": "sudokus",
+  "version": "1.0.0",
+  "description": "A JavaScript utility to solve sudokus.",
   "keywords": [
     "sudoku",
     "puzzle",
