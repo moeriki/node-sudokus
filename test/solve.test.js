@@ -2,7 +2,7 @@
 
 // modules
 
-const solve = require('../lib');
+const solve = require('../lib/solve');
 
 // tests
 
