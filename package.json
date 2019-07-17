@@ -22,19 +22,19 @@
     "test": "jest"
   },
   "dependencies": {
-    "chalk": "~1.1.3",
+    "chalk": "2.4.2",
     "lodash": "~4.17.11",
-    "log-update": "~1.0.2",
-    "table": "~4.0.1",
-    "yargs": "~6.5.0"
+    "log-update": "3.2.0",
+    "table": "5.4.4",
+    "yargs": "13.3.0"
   },
   "devDependencies": {
-    "eslint": "3.10.0",
-    "eslint-config-muriki": "7.0.0",
-    "eslint-plugin-import": "2.2.0",
-    "eslint-plugin-jasmine": "~2.2.0",
-    "eslint-plugin-node": "3.0.4",
-    "jest": "~24.7.1"
+    "eslint": "6.0.1",
+    "eslint-config-muriki": "10.0.1",
+    "eslint-plugin-import": "2.18.0",
+    "eslint-plugin-jasmine": "2.10.1",
+    "eslint-plugin-node": "9.1.0",
+    "jest": "24.8.0"
   },
   "jest": {
     "collectCoverageFrom": [
